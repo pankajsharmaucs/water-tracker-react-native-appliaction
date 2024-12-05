@@ -18,7 +18,7 @@ export default function App() {
         return;
       }
       setNotificationPermission(true);
-    };
+    };  ``
 
     getNotificationPermission();
   }, []);
